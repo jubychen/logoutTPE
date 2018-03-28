@@ -139,7 +139,7 @@
     {
       "type": "Feature",
       "properties": {
-        "color": "#0B0B6D"
+        "color": "#120BD0"
       },
       "geometry": {
         "coordinates": [
@@ -429,7 +429,7 @@
     {
       "type": "Feature",
       "properties": {
-        "color": "#0B0B6D"
+        "color": "#120BD0"
       },
       "geometry": {
         "coordinates": [
