@@ -201,7 +201,7 @@
     {
       "type": "Feature",
       "properties": {
-        "color": "#171d3a"
+        "color": "#000a30"
       },
       "geometry": {
         "coordinates": [
@@ -235,7 +235,7 @@
     {
       "type": "Feature",
       "properties": {
-        "color": "#000b35"
+        "color": "#000a30"
       },
       "geometry": {
         "coordinates": [
@@ -735,7 +735,7 @@
     {
       "type": "Feature",
       "properties": {
-        "color": "#171d3a"
+        "color": "#000a30"
       },
       "geometry": {
         "coordinates": [
@@ -835,7 +835,7 @@
     {
       "type": "Feature",
       "properties": {
-        "color": "#171d3a"
+        "color": "#000a30"
       },
       "geometry": {
         "coordinates": [
