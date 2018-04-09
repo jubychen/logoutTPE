@@ -701,7 +701,7 @@
     {
       "type": "Feature",
       "properties": {
-        "color": "#171d3a"
+        "color": "#0f1426"
       },
       "geometry": {
         "coordinates": [
@@ -973,7 +973,7 @@
     {
       "type": "Feature",
       "properties": {
-        "color": "#171d3a"
+        "color": "#0f1426"
       },
       "geometry": {
         "coordinates": [
