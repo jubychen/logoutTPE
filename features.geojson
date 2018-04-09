@@ -617,7 +617,7 @@
     {
       "type": "Feature",
       "properties": {
-        "color": "#171d3a"
+        "color": "#000b35"
       },
       "geometry": {
         "coordinates": [
